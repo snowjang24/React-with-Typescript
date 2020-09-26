@@ -4,18 +4,12 @@
 
 ## Basic
 
-* [0. Setup](basic/untitled.md)
-* [1. Getting Started](basic/untitled-1/README.md)
-  * [1.1 Function Components](basic/untitled-1/1.1-function-components.md)
-  * [Untitled](basic/untitled-1/untitled.md)
-
-## HOC
-
-## Advanced
+* [0.Setup](basic/0.setup.md)
+* [1.Getting Started](basic/1.getting-started/README.md)
+  * [1.1Function Components](basic/1.getting-started/1.1function-components.md)
+  * [Untitled](basic/1.getting-started/untitled.md)
 
 ## Migration
-
----
 
 * [React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 
