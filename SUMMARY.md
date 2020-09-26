@@ -4,7 +4,8 @@
 
 ## Basic
 
-* [0.Setup](basic/untitled.md)
+* [0. Setup](basic/untitled.md)
+* [1. Getting Started](basic/untitled-1.md)
 
 ---
 
