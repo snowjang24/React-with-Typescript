@@ -10,5 +10,4 @@
 ---
 
 * [React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
-* [Untitled](untitled.md)
 
