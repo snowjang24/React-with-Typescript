@@ -1,7 +1,5 @@
 # 0. Setup
 
-## 0. Setup
-
 ### [전제조건](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup#prerequisites)
 
 1. good understanding of [React](https://reactjs.org/)
