@@ -1,13 +1,24 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Intro.](README.md)
 
 ## Basic
 
-* [Basic 05ae09835b4e44228b65f3e9bdfef365](basic/untitled-1.md)
-* [Untitled](basic/untitled.md)
+* [0.Setup](basic/untitled.md)
 
 ---
 
 * [React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
+
+## HOC
+
+* [Untitled](hoc/untitled.md)
+
+## Advanced
+
+* [Untitled](advanced/untitled.md)
+
+## Migration
+
+* [0. Setup](migration/0.-setup.md)
 
