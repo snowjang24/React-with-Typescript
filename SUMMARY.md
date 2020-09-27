@@ -6,8 +6,7 @@
 
 * [0.Setup](basic/0.setup.md)
 * [1.Getting Started](basic/1.getting-started/README.md)
-  * [1.1Function Components](basic/1.getting-started/1.1function-components.md)
-  * [Untitled](basic/1.getting-started/untitled.md)
+  * [1.1 Function Components](basic/1.getting-started/1.1function-components.md)
 
 ## Migration
 
