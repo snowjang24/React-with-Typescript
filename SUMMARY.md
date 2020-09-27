@@ -4,9 +4,10 @@
 
 ## Basic
 
-* [0.Setup](basic/0.setup.md)
-* [1.Getting Started](basic/1.getting-started/README.md)
-  * [1.1 Function Components](basic/1.getting-started/1.1function-components.md)
+* [0.Setup](basic/0.-setup.md)
+* [1.Getting Started](basic/1.-getting-started/README.md)
+  * [1.1 Function Components](basic/1.-getting-started/1.1-function-components.md)
+  * [1.2 Hooks](basic/1.-getting-started/1.2-hooks.md)
 
 ## Migration
 
